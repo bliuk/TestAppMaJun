@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmlLuaProjectDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents />
+  <DocumentGroups />
+  <DocumentFolders>
+    <XmlDocumentFolder>
+      <Documents>
+        <DocumentRef FileName=".\bg.lua" />
+        <DocumentRef FileName=".\hero.lua" />
+        <DocumentRef FileName=".\monster.lua" />
+        <DocumentRef FileName=".\start.lua" />
+      </Documents>
+      <DocumentGroups />
+      <DocumentFolders />
+      <RelativePath>.\iphone\</RelativePath>
+    </XmlDocumentFolder>
+  </DocumentFolders>
+  <ProjectProperties>
+    <StartAction>StartExternalProgram</StartAction>
+    <CmdLineArgs>-i iphone/ -e iphone_external/</CmdLineArgs>
+    <RemotePort>22001</RemotePort>
+    <StartupFileName />
+    <WorkingDir>Z:\文稿\Project\KLab\PlaygroundOSS-master\SampleProject\Assets\.publish</WorkingDir>
+    <UseRemoteMachine>true</UseRemoteMachine>
+    <RemoteMachineName>localhost</RemoteMachineName>
+    <BuildOutputDir />
+    <PreBuildEventCmdLine />
+    <PostBuildEventCmdLine />
+    <RunPostBuildEvent>Always</RunPostBuildEvent>
+  </ProjectProperties>
+</XmlLuaProjectDocument>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBTextureEditor_Plugin id="ba5e76ae-bbb3-4759-b004-ae8cd3145489">
+  <ProjectPropertyModel>
+    <Version>0.1.0</Version>
+    <ProjectFile>Texture00.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2014-06-07T12:29:43</SaveDate>
+    <EditState>true</EditState>
+    <ContainerScale>0.5</ContainerScale>
+    <ContainerSnap>10</ContainerSnap>
+    <VisibleGrid>true</VisibleGrid>
+    <VisibleBoundaryLine>true</VisibleBoundaryLine>
+    <VisibleImage>true</VisibleImage>
+    <VisibleMask>false</VisibleMask>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleProperty>true</VisibleProperty>
+    <VisibleBoundBox>true</VisibleBoundBox>
+    <VisibleCenterPoint>true</VisibleCenterPoint>
+    <Comment />
+  </ProjectPropertyModel>
+  <ContainerPropertyModel>
+    <Width>1024</Width>
+    <Height>1024</Height>
+    <PixelFormat>RGBA8888</PixelFormat>
+    <usePremultiply>false</usePremultiply>
+  </ContainerPropertyModel>
+  <ArrayOfTextureModel>
+    <TextureModel>
+      <Pos>
+        <X>0</X>
+        <Y>0</Y>
+      </Pos>
+      <Id>0</Id>
+      <Name>bg.png</Name>
+      <IsFlipX>false</IsFlipX>
+      <IsFlipY>false</IsFlipY>
+      <IsSwitchXY>false</IsSwitchXY>
+      <ImgPathName>bg.png</ImgPathName>
+      <ZOrder>0</ZOrder>
+    </TextureModel>
+  </ArrayOfTextureModel>
+  <ArrayOfT3DModel />
+</KLBTextureEditor_Plugin>

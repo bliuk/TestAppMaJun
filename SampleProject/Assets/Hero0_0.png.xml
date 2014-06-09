@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="cf1857f5-22c0-46ba-b543-3dc2e0958c1b">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>Hero0_0.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2014-06-07T23:50:34</SaveDate>
+    <Comment />
+    <EditState>true</EditState>
+    <VisibleImage>true</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>true</VisibleGrid>
+    <VisibleProperty>true</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>22167</ImgFileSize>
+    <ImgFileDate>2013/1/31 18:12:40</ImgFileDate>
+    <ImgPathName>Hero0_0.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>81</X>
+      <Y>74</Y>
+    </Center>
+    <Width>163</Width>
+    <Height>148</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>163</Width>
+        <Height>148</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>163</Width>
+      <Height>148</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>163</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>163</X>
+        <Y>148</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>148</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>163</MaskWidth>
+    <MaskHeight>148</MaskHeight>
+    <Mask>XjwB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>

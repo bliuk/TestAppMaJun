@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="dbcfd339-e296-4d82-8b4f-a4e7c2b3a900">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>dying1.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2014-06-07T12:32:39</SaveDate>
+    <Comment />
+    <EditState>true</EditState>
+    <VisibleImage>true</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>true</VisibleGrid>
+    <VisibleProperty>true</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>2792</ImgFileSize>
+    <ImgFileDate>2014/6/7 12:14:14</ImgFileDate>
+    <ImgPathName>dying1.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>0</X>
+      <Y>0</Y>
+    </Center>
+    <Width>1</Width>
+    <Height>1</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>1</Width>
+        <Height>1</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>1</Width>
+      <Height>1</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>1</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>1</X>
+        <Y>1</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>1</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>false</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>1</MaskWidth>
+    <MaskHeight>1</MaskHeight>
+    <Mask>AQ==</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>

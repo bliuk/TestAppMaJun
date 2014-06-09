@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="17addafe-a0aa-4619-9475-d38e757ec549">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>dying0.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2014-06-07T12:32:33</SaveDate>
+    <Comment />
+    <EditState>true</EditState>
+    <VisibleImage>true</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>true</VisibleGrid>
+    <VisibleProperty>true</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>5637</ImgFileSize>
+    <ImgFileDate>2013/3/10 20:41:36</ImgFileDate>
+    <ImgPathName>dying0.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>32</X>
+      <Y>32</Y>
+    </Center>
+    <Width>64</Width>
+    <Height>64</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>64</Width>
+        <Height>64</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>64</Width>
+      <Height>64</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>64</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>64</X>
+        <Y>64</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>64</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>64</MaskWidth>
+    <MaskHeight>64</MaskHeight>
+    <Mask>EAAB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>

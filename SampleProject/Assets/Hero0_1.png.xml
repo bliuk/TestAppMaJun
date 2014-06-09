@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="b6174fae-5040-4951-8332-18db9e7c0d0c">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>Hero0_1.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2014-06-07T23:50:39</SaveDate>
+    <Comment />
+    <EditState>true</EditState>
+    <VisibleImage>true</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>true</VisibleGrid>
+    <VisibleProperty>true</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>23507</ImgFileSize>
+    <ImgFileDate>2014/6/7 11:51:53</ImgFileDate>
+    <ImgPathName>Hero0_1.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>81</X>
+      <Y>74</Y>
+    </Center>
+    <Width>163</Width>
+    <Height>148</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>163</Width>
+        <Height>148</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>163</Width>
+      <Height>148</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>163</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>163</X>
+        <Y>148</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>148</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>163</MaskWidth>
+    <MaskHeight>148</MaskHeight>
+    <Mask>XjwB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>

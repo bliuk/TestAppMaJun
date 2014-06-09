@@ -1,0 +1,16 @@
+CREATE TABLE `roleTable` (
+    `id` INTEGER NOT NULL ,
+    `key` TEXT NOT NULL ,
+    `width` float NOT NULL ,
+    `height` float NOT NULL ,
+	`flyFrameName` TEXT,
+	`flyFrameCount` INTEGER,
+	`flyFrameInterval` float,
+	`damageFrameName` TEXT,
+	`damageFrameCount` INTEGER,
+	`damageFrameInterval` float,
+	`dyingFrameName` TEXT,
+	`dyingFrameCount` INTEGER,
+	`dyingFrameInterval` float,
+    PRIMARY KEY (`key`)
+);

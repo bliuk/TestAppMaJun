@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="84c5c34a-ca12-44c5-a383-937f22313a07">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>Dragon0_1.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2014-06-07T12:32:23</SaveDate>
+    <Comment />
+    <EditState>true</EditState>
+    <VisibleImage>true</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>true</VisibleGrid>
+    <VisibleProperty>true</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>20630</ImgFileSize>
+    <ImgFileDate>2014/6/7 12:00:44</ImgFileDate>
+    <ImgPathName>Dragon0_1.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>100</X>
+      <Y>60</Y>
+    </Center>
+    <Width>200</Width>
+    <Height>120</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>200</Width>
+        <Height>120</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>200</Width>
+      <Height>120</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>200</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>200</X>
+        <Y>120</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>120</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>200</MaskWidth>
+    <MaskHeight>120</MaskHeight>
+    <Mask>XcAB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>
